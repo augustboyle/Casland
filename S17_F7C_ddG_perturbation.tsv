@@ -1,0 +1,924 @@
+name	ddG_perturbation	assay
+complement_complement|2|-10|-2	0.5333009908058324	Scission
+complement_complement|2|-10|-6	0.13039400667375578	Scission
+complement_complement|2|-15|-10	0.45685760434300937	Scission
+complement_complement|2|-15|-2	0.06771775848546482	Scission
+complement_complement|2|-15|-6	0	Scission
+complement_complement|2|-19|-10	0.9623124360115588	Scission
+complement_complement|2|-19|-15	1.5101503860398118	Scission
+complement_complement|2|-19|-2	1.1503323822064946	Scission
+complement_complement|2|-19|-6	0	Scission
+complement_complement|2|-6|-2	0	Scission
+del_1|1|-1	1.8440188272445535	Scission
+del_1|1|-10	2.4690548800814103	Scission
+del_1|1|-11	1.26289881645911	Scission
+del_1|1|-12	1.749837845950431	Scission
+del_1|1|-13	1.0514852020536778	Scission
+del_1|1|-14	1.936179936462565	Scission
+del_1|1|-15	0.982387353463987	Scission
+del_1|1|-16	1.488126754953142	Scission
+del_1|1|-17	1.5039685696749592	Scission
+del_1|1|-18	1.1952547991482605	Scission
+del_1|1|-19	0.7834024434063218	Scission
+del_1|1|-2	1.850721427486744	Scission
+del_1|1|-20	0.16646380256032453	Scission
+del_1|1|-3	3.1369025815048497	Scission
+del_1|1|-4	3.2810242560208382	Scission
+del_1|1|-5	0.8639728847319772	Scission
+del_1|1|-6	1.1554806336397778	Scission
+del_1|1|-7	1.9750770858560998	Scission
+del_1|1|-8	1.7363841389486656	Scission
+del_1|1|-9	2.7575545144171882	Scission
+del_2|1|-1	1.1204753243733954	Scission
+del_2|1|-10	4.864085336196164	Scission
+del_2|1|-11	4.864085335952357	Scission
+del_2|1|-12	4.652671084183085	Scission
+del_2|1|-13	4.200041759301396	Scission
+del_2|1|-14	4.687815428989054	Scission
+del_2|1|-15	4.604588438033399	Scission
+del_2|1|-16	3.548675479701725	Scission
+del_2|1|-17	2.845441776230565	Scission
+del_2|1|-18	1.6524000538177583	Scission
+del_2|1|-19	1.2411009695851443	Scission
+del_2|1|-2	2.157011703853124	Scission
+del_2|1|-20	0.7330321446866558	Scission
+del_2|1|-3	1.8643662432614074	Scission
+del_2|1|-4	2.5684675923938456	Scission
+del_2|1|-5	3.3898599951792145	Scission
+del_2|1|-6	3.1416158048282297	Scission
+del_2|1|-7	3.4587694300374783	Scission
+del_2|1|-8	3.2833818162300985	Scission
+del_2|1|-9	2.498205085621516	Scission
+del_3|1|-10	4.921747853684774	Scission
+del_3|1|-11	5	Scission
+del_3|1|-12	5	Scission
+del_3|1|-13	5	Scission
+del_3|1|-14	5	Scission
+del_3|1|-15	5	Scission
+del_3|1|-16	4.808354313037785	Scission
+del_3|1|-17	3.9035297294604265	Scission
+del_3|1|-18	2.828360713431378	Scission
+del_3|1|-19	1.6090830886468477	Scission
+del_3|1|-20	0.3511905298680806	Scission
+del_3|1|-3	3.501484702604233	Scission
+del_3|1|-4	5	Scission
+del_3|1|-5	5	Scission
+del_3|1|-6	4.814873699397779	Scission
+del_3|1|-7	5	Scission
+del_3|1|-8	4.764918598890176	Scission
+del_3|1|-9	4.921747853580993	Scission
+grid_complement|2|-10|-1	3.3817500430840095	Scission
+grid_complement|2|-10|-10	0.51169822367028	Scission
+grid_complement|2|-10|-2	4.882097907900795	Scission
+grid_complement|2|-10|-3	4.255269533384472	Scission
+grid_complement|2|-10|-4	3.0151245825580273	Scission
+grid_complement|2|-10|-5	4.201377058701782	Scission
+grid_complement|2|-10|-6	2.7235793333717195	Scission
+grid_complement|2|-10|-7	1.7065220404881738	Scission
+grid_complement|2|-10|-8	0.9673494624221136	Scission
+grid_complement|2|-10|-9	1.1067769504975549	Scission
+grid_complement|2|-1|-1	0.4831320014391974	Scission
+grid_complement|2|-11|-1	3.053487486066586	Scission
+grid_complement|2|-11|-10	1.5194376275188803	Scission
+grid_complement|2|-11|-11	0.520094760878768	Scission
+grid_complement|2|-11|-2	4.817539023333337	Scission
+grid_complement|2|-11|-3	4.651121036854891	Scission
+grid_complement|2|-11|-4	4.073491054278267	Scission
+grid_complement|2|-11|-5	4.526410617526286	Scission
+grid_complement|2|-11|-6	3.1922011858337354	Scission
+grid_complement|2|-11|-7	1.7773132690024904	Scission
+grid_complement|2|-11|-8	1.6962395725995623	Scission
+grid_complement|2|-11|-9	1.6777672505226882	Scission
+grid_complement|2|-12|-1	4.518764599816644	Scission
+grid_complement|2|-12|-10	1.8263873667142592	Scission
+grid_complement|2|-12|-11	1.0421259353357109	Scission
+grid_complement|2|-12|-12	0.7060906875711996	Scission
+grid_complement|2|-12|-2	4.551165361129129	Scission
+grid_complement|2|-12|-3	3.978887311883189	Scission
+grid_complement|2|-12|-4	4.264484772052242	Scission
+grid_complement|2|-12|-5	5	Scission
+grid_complement|2|-12|-6	4.140428891729409	Scission
+grid_complement|2|-12|-7	3.165233430593186	Scission
+grid_complement|2|-12|-8	2.3013726613672	Scission
+grid_complement|2|-12|-9	1.4521726306510288	Scission
+grid_complement|2|-13|-1	2.7997446803380166	Scission
+grid_complement|2|-13|-10	2.2200621306047603	Scission
+grid_complement|2|-13|-11	2.1072404446235646	Scission
+grid_complement|2|-13|-12	2.094652385984604	Scission
+grid_complement|2|-13|-13	1.0303291562155898	Scission
+grid_complement|2|-13|-2	4.572152065778282	Scission
+grid_complement|2|-13|-3	3.2114599607931984	Scission
+grid_complement|2|-13|-4	3.405275837991868	Scission
+grid_complement|2|-13|-5	5	Scission
+grid_complement|2|-13|-6	3.824209056909492	Scission
+grid_complement|2|-13|-7	3.062630974658459	Scission
+grid_complement|2|-13|-8	3.075445268650656	Scission
+grid_complement|2|-13|-9	3.407391499591309	Scission
+grid_complement|2|-14|-1	4.486169878317693	Scission
+grid_complement|2|-14|-10	2.8608979243247816	Scission
+grid_complement|2|-14|-11	2.4512196974090275	Scission
+grid_complement|2|-14|-12	2.5210333079502516	Scission
+grid_complement|2|-14|-13	2.1882458307489747	Scission
+grid_complement|2|-14|-14	0.5005238476806813	Scission
+grid_complement|2|-14|-2	4.537798733883047	Scission
+grid_complement|2|-14|-3	3.155761329262045	Scission
+grid_complement|2|-14|-4	4.400576929292692	Scission
+grid_complement|2|-14|-5	4.957883046150774	Scission
+grid_complement|2|-14|-6	3.2932877461895864	Scission
+grid_complement|2|-14|-7	3.6639191057996503	Scission
+grid_complement|2|-14|-8	3.672287046013627	Scission
+grid_complement|2|-14|-9	3.4024506735069124	Scission
+grid_complement|2|-15|-1	4.333757789797339	Scission
+grid_complement|2|-15|-10	3.4915482586368864	Scission
+grid_complement|2|-15|-11	2.9352239500793496	Scission
+grid_complement|2|-15|-12	2.8845724497108	Scission
+grid_complement|2|-15|-13	3.467607902582668	Scission
+grid_complement|2|-15|-14	2.0214975799427437	Scission
+grid_complement|2|-15|-15	0.771906187218488	Scission
+grid_complement|2|-15|-2	4.6802535440858355	Scission
+grid_complement|2|-15|-3	3.807685028892142	Scission
+grid_complement|2|-15|-4	4.7603705146158655	Scission
+grid_complement|2|-15|-5	4.5975553732809935	Scission
+grid_complement|2|-15|-6	3.4720656241008303	Scission
+grid_complement|2|-15|-7	4.790897153484446	Scission
+grid_complement|2|-15|-8	4.1124128950966	Scission
+grid_complement|2|-15|-9	4.594223289579574	Scission
+grid_complement|2|-16|-1	4.068403067995121	Scission
+grid_complement|2|-16|-10	4.031974874518048	Scission
+grid_complement|2|-16|-11	4.387944976677057	Scission
+grid_complement|2|-16|-12	3.954055475942044	Scission
+grid_complement|2|-16|-13	3.9609340927110885	Scission
+grid_complement|2|-16|-14	3.0274278959534473	Scission
+grid_complement|2|-16|-15	2.3057746120368523	Scission
+grid_complement|2|-16|-16	0.6377559735806533	Scission
+grid_complement|2|-16|-2	4.783052481892078	Scission
+grid_complement|2|-16|-3	4.38494358243752	Scission
+grid_complement|2|-16|-4	3.5404103768521007	Scission
+grid_complement|2|-16|-5	4.666169768700607	Scission
+grid_complement|2|-16|-6	4.9399146097400655	Scission
+grid_complement|2|-16|-7	5	Scission
+grid_complement|2|-16|-8	5	Scission
+grid_complement|2|-16|-9	5	Scission
+grid_complement|2|-17|-10	4.520397137944156	Scission
+grid_complement|2|-17|-11	4.47502613255211	Scission
+grid_complement|2|-17|-12	4.504659176567236	Scission
+grid_complement|2|-17|-13	4.558341989081322	Scission
+grid_complement|2|-17|-14	4.196212576669283	Scission
+grid_complement|2|-17|-15	2.8350001930058957	Scission
+grid_complement|2|-17|-16	2.232846085730996	Scission
+grid_complement|2|-17|-17	0.981475669763522	Scission
+grid_complement|2|-17|-2	4.108236323102455	Scission
+grid_complement|2|-17|-3	3.8975925508803733	Scission
+grid_complement|2|-17|-4	4.844479926055445	Scission
+grid_complement|2|-17|-5	3.771225639530409	Scission
+grid_complement|2|-17|-6	3.1750832639273785	Scission
+grid_complement|2|-17|-7	5	Scission
+grid_complement|2|-17|-8	4.624445084753295	Scission
+grid_complement|2|-17|-9	4.882232478986851	Scission
+grid_complement|2|-18|-1	3.339013582192025	Scission
+grid_complement|2|-18|-10	4.641826043168049	Scission
+grid_complement|2|-18|-11	4.908603036650205	Scission
+grid_complement|2|-18|-12	4.602478831014169	Scission
+grid_complement|2|-18|-13	4.890476278336385	Scission
+grid_complement|2|-18|-14	4.294538081764006	Scission
+grid_complement|2|-18|-15	3.705424726093104	Scission
+grid_complement|2|-18|-16	3.075159407810024	Scission
+grid_complement|2|-18|-17	2.135102903656744	Scission
+grid_complement|2|-18|-18	0.5272297199715864	Scission
+grid_complement|2|-18|-2	4.7353191430065955	Scission
+grid_complement|2|-18|-3	4.83852932319104	Scission
+grid_complement|2|-18|-4	3.9180677428416026	Scission
+grid_complement|2|-18|-5	4.868413657139592	Scission
+grid_complement|2|-18|-6	5	Scission
+grid_complement|2|-18|-7	4.99117384979211	Scission
+grid_complement|2|-18|-8	3.3550768297058533	Scission
+grid_complement|2|-18|-9	4.839524044513453	Scission
+grid_complement|2|-19|-1	4.197930436277441	Scission
+grid_complement|2|-19|-10	4.190078534103189	Scission
+grid_complement|2|-19|-11	4.6450599954908665	Scission
+grid_complement|2|-19|-12	4.924759576886112	Scission
+grid_complement|2|-19|-13	4.11970455738441	Scission
+grid_complement|2|-19|-14	3.4426853646143503	Scission
+grid_complement|2|-19|-15	3.629305796694484	Scission
+grid_complement|2|-19|-16	2.9366145865995286	Scission
+grid_complement|2|-19|-17	3.0772363947346473	Scission
+grid_complement|2|-19|-18	1.1783726977776527	Scission
+grid_complement|2|-19|-19	0.6933071218555735	Scission
+grid_complement|2|-19|-2	4.078751366981666	Scission
+grid_complement|2|-19|-3	5	Scission
+grid_complement|2|-19|-4	3.50360832001461	Scission
+grid_complement|2|-19|-5	4.934977636614726	Scission
+grid_complement|2|-19|-6	4.023285719758428	Scission
+grid_complement|2|-19|-7	5	Scission
+grid_complement|2|-19|-8	5	Scission
+grid_complement|2|-19|-9	4.792314690382713	Scission
+grid_complement|2|-20|-1	4.809747896032392	Scission
+grid_complement|2|-20|-10	4.522802425355378	Scission
+grid_complement|2|-20|-11	4.91092895657465	Scission
+grid_complement|2|-20|-12	4.786602442007153	Scission
+grid_complement|2|-20|-13	5	Scission
+grid_complement|2|-20|-14	4.979201663233843	Scission
+grid_complement|2|-20|-15	3.958962363243103	Scission
+grid_complement|2|-20|-16	4.019923972749259	Scission
+grid_complement|2|-20|-17	3.048256782376619	Scission
+grid_complement|2|-20|-18	1.2458713728827724	Scission
+grid_complement|2|-20|-19	0.4308415311038943	Scission
+grid_complement|2|-20|-2	4.4011288674800735	Scission
+grid_complement|2|-20|-20	0	Scission
+grid_complement|2|-20|-3	5	Scission
+grid_complement|2|-20|-4	4.658007268566429	Scission
+grid_complement|2|-20|-5	4.940648948849819	Scission
+grid_complement|2|-20|-6	4.518020548028815	Scission
+grid_complement|2|-20|-7	5	Scission
+grid_complement|2|-20|-8	5	Scission
+grid_complement|2|-20|-9	5	Scission
+grid_complement|2|-2|-1	0	Scission
+grid_complement|2|-2|-2	0.5282482857710689	Scission
+grid_complement|2|-3|-1	2.4473303772931563	Scission
+grid_complement|2|-3|-2	0.9606444300384097	Scission
+grid_complement|2|-3|-3	0.2765377813081193	Scission
+grid_complement|2|-4|-1	3.0116915945002893	Scission
+grid_complement|2|-4|-2	2.150782312337396	Scission
+grid_complement|2|-4|-3	0	Scission
+grid_complement|2|-4|-4	0.2966839466212018	Scission
+grid_complement|2|-5|-1	2.793326415736804	Scission
+grid_complement|2|-5|-2	3.274530390309925	Scission
+grid_complement|2|-5|-3	1.8515333222774244	Scission
+grid_complement|2|-5|-4	1.8374220291611845	Scission
+grid_complement|2|-5|-5	0.4525147952055982	Scission
+grid_complement|2|-6|-1	3.375949575856811	Scission
+grid_complement|2|-6|-2	4.467968806549098	Scission
+grid_complement|2|-6|-3	2.8603464577280646	Scission
+grid_complement|2|-6|-4	3.194774225656006	Scission
+grid_complement|2|-6|-5	0.9798862054031875	Scission
+grid_complement|2|-6|-6	0.4642771115186332	Scission
+grid_complement|2|-7|-1	4.310861587526621	Scission
+grid_complement|2|-7|-2	4.518514001446725	Scission
+grid_complement|2|-7|-3	3.9952048708624055	Scission
+grid_complement|2|-7|-4	2.751665416596878	Scission
+grid_complement|2|-7|-5	1.2645450813144932	Scission
+grid_complement|2|-7|-6	0.847334358321685	Scission
+grid_complement|2|-7|-7	0.32043393822711475	Scission
+grid_complement|2|-8|-1	4.384097537963019	Scission
+grid_complement|2|-8|-2	4.067731288999508	Scission
+grid_complement|2|-8|-3	3.7670967844277863	Scission
+grid_complement|2|-8|-4	2.4216154041510283	Scission
+grid_complement|2|-8|-5	1.1315707004827125	Scission
+grid_complement|2|-8|-6	0.6300278613593064	Scission
+grid_complement|2|-8|-7	0.9028690480395493	Scission
+grid_complement|2|-8|-8	0.41048026032381413	Scission
+grid_complement|2|-9|-1	3.7050701438825286	Scission
+grid_complement|2|-9|-2	4.3505158677871405	Scission
+grid_complement|2|-9|-3	3.289802287076985	Scission
+grid_complement|2|-9|-4	2.865430818418224	Scission
+grid_complement|2|-9|-5	3.7882425810069233	Scission
+grid_complement|2|-9|-6	1.9300112261429472	Scission
+grid_complement|2|-9|-7	0.94370655059208	Scission
+grid_complement|2|-9|-8	0.7231127210451244	Scission
+grid_complement|2|-9|-9	0.3981625471996085	Scission
+ins_1|1|-1	0.7723478076057434	Scission
+ins_1|1|-10	1.256791104327917	Scission
+ins_1|1|-11	0.9938471437871905	Scission
+ins_1|1|-12	1.1100447810943066	Scission
+ins_1|1|-13	1.786491804952343	Scission
+ins_1|1|-14	2.0435699396843514	Scission
+ins_1|1|-15	0.835516951703384	Scission
+ins_1|1|-16	1.3722701214675457	Scission
+ins_1|1|-17	1.1175111714452077	Scission
+ins_1|1|-18	0.3977991986452504	Scission
+ins_1|1|-19	0	Scission
+ins_1|1|-2	0.3613160583958653	Scission
+ins_1|1|-20	0	Scission
+ins_1|1|-3	1.7584459035186595	Scission
+ins_1|1|-4	2.581882364195038	Scission
+ins_1|1|-5	2.2759007273806238	Scission
+ins_1|1|-6	1.1220416245212737	Scission
+ins_1|1|-7	0.2826643229283644	Scission
+ins_1|1|-8	0.7026494398892417	Scission
+ins_1|1|-9	1.641717331091533	Scission
+ins_2|1|-1	2.007696069943397	Scission
+ins_2|1|-10	1.4398869413733033	Scission
+ins_2|1|-11	2.1430904368919705	Scission
+ins_2|1|-12	3.119189804222133	Scission
+ins_2|1|-13	3.3714420759072325	Scission
+ins_2|1|-14	2.769883373145808	Scission
+ins_2|1|-15	2.4302268816035446	Scission
+ins_2|1|-16	2.2738522135456196	Scission
+ins_2|1|-17	1.683956300187237	Scission
+ins_2|1|-18	1.241589729166924	Scission
+ins_2|1|-19	0.7107120997459666	Scission
+ins_2|1|-2	1.5811120968395167	Scission
+ins_2|1|-20	0.41182995682876666	Scission
+ins_2|1|-3	3.589814408122607	Scission
+ins_2|1|-4	4.302543297737937	Scission
+ins_2|1|-5	3.3462174889592804	Scission
+ins_2|1|-6	2.203150007684379	Scission
+ins_2|1|-7	0.9222506763489432	Scission
+ins_2|1|-8	2.233686993993432	Scission
+ins_2|1|-9	2.1430915325122446	Scission
+ins_3|1|-1	0.41685525626832626	Scission
+ins_3|1|-11	3.261397168464423	Scission
+ins_3|1|-12	4.353268383342574	Scission
+ins_3|1|-13	4.232633906985753	Scission
+ins_3|1|-14	3.5108567246820117	Scission
+ins_3|1|-15	3.061007008505674	Scission
+ins_3|1|-16	2.656362855164577	Scission
+ins_3|1|-17	1.8039732354767881	Scission
+ins_3|1|-18	1.2119891398063276	Scission
+ins_3|1|-19	0.7576093734657775	Scission
+ins_3|1|-2	1.8684845985608853	Scission
+ins_3|1|-20	0	Scission
+ins_3|1|-3	3.1410603568324773	Scission
+ins_3|1|-4	4.5091418489762365	Scission
+ins_3|1|-5	3.0653904849248033	Scission
+ins_3|1|-6	2.191409328346154	Scission
+ins_3|1|-7	2.4371484932268013	Scission
+ins_3|1|-8	2.902987573311845	Scission
+ins_3|1|-9	4.187693407679648	Scission
+perfect_target|1|NA	0	Scission
+rgrid_complement|2|-17|-1	3.048256782280105	Scission
+rgrid_complement|2|-17|-2	0.9791065591104238	Scission
+rgrid_complement|2|-17|-3	3.355619622396837	Scission
+rgrid_complement|2|-17|-4	3.463071777134303	Scission
+rgrid_complement|2|-17|-5	4.874272048774425	Scission
+rgrid_complement|2|-18|-1	1.2458713724108779	Scission
+rgrid_complement|2|-18|-2	0.08582022572091584	Scission
+rgrid_complement|2|-18|-3	1.2296155703983411	Scission
+rgrid_complement|2|-18|-4	3.204685917877658	Scission
+rgrid_complement|2|-18|-5	3.891376355133717	Scission
+rgrid_complement|2|-19|-1	0.4308415503953115	Scission
+rgrid_complement|2|-19|-2	0	Scission
+rgrid_complement|2|-19|-3	0.24468396210367518	Scission
+rgrid_complement|2|-19|-4	2.5551931644809773	Scission
+rgrid_complement|2|-19|-5	2.9794210730947857	Scission
+rgrid_complement|2|-20|-1	0	Scission
+rgrid_complement|2|-20|-2	0	Scission
+rgrid_complement|2|-20|-3	0	Scission
+rgrid_complement|2|-20|-4	2.406267312564529	Scission
+rgrid_complement|2|-20|-5	2.289694846547591	Scission
+sub_complement|1|-1	0.4831319787411325	Scission
+sub_complement|1|-10	0.5116982045691968	Scission
+sub_complement|1|-11	0.5200947480475823	Scission
+sub_complement|1|-12	0.7060906893011075	Scission
+sub_complement|1|-13	1.030329159914874	Scission
+sub_complement|1|-14	0.5005238453138918	Scission
+sub_complement|1|-15	0.7719061917197478	Scission
+sub_complement|1|-16	0.6377559750169777	Scission
+sub_complement|1|-17	0.9814756700755076	Scission
+sub_complement|1|-18	0.5272297123270803	Scission
+sub_complement|1|-19	0.6933071201807292	Scission
+sub_complement|1|-2	0.5282482742515955	Scission
+sub_complement|1|-20	0	Scission
+sub_complement|1|-3	0.27653781750035183	Scission
+sub_complement|1|-4	0.29668394512230944	Scission
+sub_complement|1|-5	0.4525147806489228	Scission
+sub_complement|1|-6	0.4642771044749878	Scission
+sub_complement|1|-7	0.3204339328390736	Scission
+sub_complement|1|-8	0.4104802669906019	Scission
+sub_complement|1|-9	0.39816255353016705	Scission
+sub_opposing|1|-1	0.737174193010369	Scission
+sub_opposing|1|-10	0.6578319834482335	Scission
+sub_opposing|1|-11	0.3619823081150058	Scission
+sub_opposing|1|-12	0.6735352616861799	Scission
+sub_opposing|1|-13	1.3439655236285437	Scission
+sub_opposing|1|-14	1.0668377569003822	Scission
+sub_opposing|1|-15	0.8145872056521348	Scission
+sub_opposing|1|-16	0.571864356645398	Scission
+sub_opposing|1|-17	0.006874370156992461	Scission
+sub_opposing|1|-18	0	Scission
+sub_opposing|1|-19	0.6354149323536064	Scission
+sub_opposing|1|-2	0.5472465529679182	Scission
+sub_opposing|1|-20	0.008080132230690585	Scission
+sub_opposing|1|-3	0.32644976228583616	Scission
+sub_opposing|1|-4	0.3177225827346248	Scission
+sub_opposing|1|-5	0.7169137328393588	Scission
+sub_opposing|1|-6	0.3559322568696403	Scission
+sub_opposing|1|-7	0	Scission
+sub_opposing|1|-8	0.5777057091349197	Scission
+sub_opposing|1|-9	0.6021322031901302	Scission
+sub_transition|1|-1	0.4422338330398851	Scission
+sub_transition|1|-10	0.6115329729874966	Scission
+sub_transition|1|-11	0.34421054083459346	Scission
+sub_transition|1|-12	0.572318272545588	Scission
+sub_transition|1|-13	0.9323251625787828	Scission
+sub_transition|1|-14	0.3541504544979733	Scission
+sub_transition|1|-15	0.46422981594867174	Scission
+sub_transition|1|-16	0.42212112489223563	Scission
+sub_transition|1|-17	0.03625117351630412	Scission
+sub_transition|1|-18	0	Scission
+sub_transition|1|-19	0.12766878026797135	Scission
+sub_transition|1|-2	0.343521676077862	Scission
+sub_transition|1|-20	0	Scission
+sub_transition|1|-3	0.4725682702187937	Scission
+sub_transition|1|-4	0.08830276238310625	Scission
+sub_transition|1|-5	0.7172659542785317	Scission
+sub_transition|1|-6	0.32530823219334065	Scission
+sub_transition|1|-7	0.5412700165489208	Scission
+sub_transition|1|-8	0.6497170001861736	Scission
+sub_transition|1|-9	0.7305747235915132	Scission
+transition_complement|2|-1|0	0.8910620310564532	Scission
+transition_complement|2|-10|-9	0.4968995793694706	Scission
+transition_complement|2|-11|-10	0.6026623212151274	Scission
+transition_complement|2|-12|-11	1.2776560082227115	Scission
+transition_complement|2|-13|-12	0.8345046525389909	Scission
+transition_complement|2|-14|-13	2.3204864905847926	Scission
+transition_complement|2|-15|-14	2.325343108204826	Scission
+transition_complement|2|-16|-15	2.238418882197949	Scission
+transition_complement|2|-17|-16	1.5674821375242758	Scission
+transition_complement|2|-18|-17	1.282732949522635	Scission
+transition_complement|2|-19|-18	1.2129001038003953	Scission
+transition_complement|2|-20|-19	0.772728326995432	Scission
+transition_complement|2|-2|-1	0.05606069339058512	Scission
+transition_complement|2|-3|-2	0.21526035927641163	Scission
+transition_complement|2|-4|-3	0.730058385376073	Scission
+transition_complement|2|-5|-4	0.3368621481912939	Scission
+transition_complement|2|-6|-5	0.14321370008540996	Scission
+transition_complement|2|-7|-6	0.6324176414738637	Scission
+transition_complement|2|-8|-7	0	Scission
+transition_complement|2|-9|-8	0.30114911397985344	Scission
+transition_transition|2|-1|0	0.7338193677401748	Scission
+transition_transition|2|-10|-9	0.3456903712199156	Scission
+transition_transition|2|-11|-10	0.5702986248577009	Scission
+transition_transition|2|1|2	1.807269145484434	Scission
+transition_transition|2|-12|-11	1.5628762700355605	Scission
+transition_transition|2|-13|-12	0.739270426667306	Scission
+transition_transition|2|-14|-13	1.6023282358027817	Scission
+transition_transition|2|-15|-14	1.1698367211174872	Scission
+transition_transition|2|-16|-15	0.9437070139813613	Scission
+transition_transition|2|-17|-16	1.6194013452551441	Scission
+transition_transition|2|-18|-17	1.2774749441109503	Scission
+transition_transition|2|-19|-18	0.4961494920950316	Scission
+transition_transition|2|-20|-19	0.6653223277528599	Scission
+transition_transition|2|-2|-1	0.7529588866552435	Scission
+transition_transition|2|-3|-2	0.1289324718674409	Scission
+transition_transition|2|-4|-3	0.08013728190988344	Scission
+transition_transition|2|-5|-4	0	Scission
+transition_transition|2|-6|-5	0.23392200755803524	Scission
+transition_transition|2|-7|-6	0.38809847097713573	Scission
+transition_transition|2|-8|-7	0.48445707964740614	Scission
+transition_transition|2|-9|-8	0.3670113050823026	Scission
+complement_complement|2|-10|-2	1.3687736391048944	Productive binding
+complement_complement|2|-10|-6	1.9781170600884155	Productive binding
+complement_complement|2|-15|-10	1.2510956182173891	Productive binding
+complement_complement|2|-15|-2	1.2469490763483253	Productive binding
+complement_complement|2|-15|-6	1.2471080304125484	Productive binding
+complement_complement|2|-19|-10	1.1266530688556295	Productive binding
+complement_complement|2|-19|-15	0	Productive binding
+complement_complement|2|-19|-2	1.2982857138501818	Productive binding
+complement_complement|2|-19|-6	1.2960078686842533	Productive binding
+complement_complement|2|-6|-2	2.1644524163472014	Productive binding
+del_1|1|-1	1.9924526564232943	Productive binding
+del_1|1|-10	0.7360686278442002	Productive binding
+del_1|1|-11	0.702200375544285	Productive binding
+del_1|1|-12	0.1617318700616002	Productive binding
+del_1|1|-13	0	Productive binding
+del_1|1|-14	0	Productive binding
+del_1|1|-15	0	Productive binding
+del_1|1|-16	0	Productive binding
+del_1|1|-17	0	Productive binding
+del_1|1|-18	0	Productive binding
+del_1|1|-19	0	Productive binding
+del_1|1|-2	2.002640093256184	Productive binding
+del_1|1|-20	0	Productive binding
+del_1|1|-3	2.167919343542627	Productive binding
+del_1|1|-4	1.825015561337461	Productive binding
+del_1|1|-5	1.3557230301623209	Productive binding
+del_1|1|-6	1.2903096626121333	Productive binding
+del_1|1|-7	1.267604555519123	Productive binding
+del_1|1|-8	1.251270504984664	Productive binding
+del_1|1|-9	1.0958775057872718	Productive binding
+del_2|1|-1	4	Productive binding
+del_2|1|-10	1.0409476623013902	Productive binding
+del_2|1|-11	0.9897395503032312	Productive binding
+del_2|1|-12	0.6386890535588653	Productive binding
+del_2|1|-13	0	Productive binding
+del_2|1|-14	0	Productive binding
+del_2|1|-15	0	Productive binding
+del_2|1|-16	0	Productive binding
+del_2|1|-17	0	Productive binding
+del_2|1|-18	0	Productive binding
+del_2|1|-19	0	Productive binding
+del_2|1|-2	2.584920757606377	Productive binding
+del_2|1|-20	0	Productive binding
+del_2|1|-3	2.680951981638109	Productive binding
+del_2|1|-4	2.488405107302748	Productive binding
+del_2|1|-5	2.135949720478188	Productive binding
+del_2|1|-6	1.399640467380676	Productive binding
+del_2|1|-7	1.3883458228187828	Productive binding
+del_2|1|-8	1.3758818162132325	Productive binding
+del_2|1|-9	1.3307563157426614	Productive binding
+del_3|1|-1	4	Productive binding
+del_3|1|-10	1.6619423072023318	Productive binding
+del_3|1|-11	1.159746117404939	Productive binding
+del_3|1|-12	1.1270945245844917	Productive binding
+del_3|1|-13	0.20863992206367957	Productive binding
+del_3|1|-14	0	Productive binding
+del_3|1|-15	0	Productive binding
+del_3|1|-16	0	Productive binding
+del_3|1|-17	0	Productive binding
+del_3|1|-18	0	Productive binding
+del_3|1|-19	0	Productive binding
+del_3|1|-2	3.947246520527752	Productive binding
+del_3|1|-20	0	Productive binding
+del_3|1|-3	3.4682047698232084	Productive binding
+del_3|1|-4	3.424927351485727	Productive binding
+del_3|1|-5	2.894124416555459	Productive binding
+del_3|1|-6	2.2427154485241423	Productive binding
+del_3|1|-7	1.829613858407586	Productive binding
+del_3|1|-8	1.766635600442491	Productive binding
+del_3|1|-9	1.7445183131432898	Productive binding
+grid_complement|2|-10|-1	3.123502653989254	Productive binding
+grid_complement|2|-10|-10	0.7423728670846916	Productive binding
+grid_complement|2|-10|-2	3.0370258925400315	Productive binding
+grid_complement|2|-10|-3	2.641179697470966	Productive binding
+grid_complement|2|-10|-4	2.245456329866969	Productive binding
+grid_complement|2|-10|-5	2.400009345415907	Productive binding
+grid_complement|2|-10|-6	2.158932462175319	Productive binding
+grid_complement|2|-10|-7	2.1401816645073666	Productive binding
+grid_complement|2|-10|-8	2.048095318724258	Productive binding
+grid_complement|2|-10|-9	1.3059535100598003	Productive binding
+grid_complement|2|-1|-1	1.87782754037142	Productive binding
+grid_complement|2|-11|-1	3.298320233883835	Productive binding
+grid_complement|2|-11|-10	1.0180883289441267	Productive binding
+grid_complement|2|-11|-11	0	Productive binding
+grid_complement|2|-11|-2	3.0382497660166417	Productive binding
+grid_complement|2|-11|-3	2.4575379279735143	Productive binding
+grid_complement|2|-11|-4	2.3614235623857898	Productive binding
+grid_complement|2|-11|-5	2.270125391305265	Productive binding
+grid_complement|2|-11|-6	2.059333230388026	Productive binding
+grid_complement|2|-11|-7	2.161823535822752	Productive binding
+grid_complement|2|-11|-8	2.014885772014596	Productive binding
+grid_complement|2|-11|-9	1.6926362662766539	Productive binding
+grid_complement|2|-12|-1	3.52876980441437	Productive binding
+grid_complement|2|-12|-10	1.2599525313425073	Productive binding
+grid_complement|2|-12|-11	1.159112772141242	Productive binding
+grid_complement|2|-12|-12	0	Productive binding
+grid_complement|2|-12|-2	3.1143034642499576	Productive binding
+grid_complement|2|-12|-3	2.4125117956600604	Productive binding
+grid_complement|2|-12|-4	2.4479134179763538	Productive binding
+grid_complement|2|-12|-5	2.3801390135001586	Productive binding
+grid_complement|2|-12|-6	2.213469896988946	Productive binding
+grid_complement|2|-12|-7	2.137723249607974	Productive binding
+grid_complement|2|-12|-8	2.206690199839589	Productive binding
+grid_complement|2|-12|-9	1.849194123321985	Productive binding
+grid_complement|2|-13|-1	3.861796531292517	Productive binding
+grid_complement|2|-13|-10	1.2878840482526683	Productive binding
+grid_complement|2|-13|-11	1.0561320291032603	Productive binding
+grid_complement|2|-13|-12	0.47194338500841376	Productive binding
+grid_complement|2|-13|-13	0	Productive binding
+grid_complement|2|-13|-2	3.0498999396015876	Productive binding
+grid_complement|2|-13|-3	2.9849402424278777	Productive binding
+grid_complement|2|-13|-4	2.479874774648337	Productive binding
+grid_complement|2|-13|-5	2.3662245938715176	Productive binding
+grid_complement|2|-13|-6	2.279290856417639	Productive binding
+grid_complement|2|-13|-7	2.1862743780720306	Productive binding
+grid_complement|2|-13|-8	2.0302917125765223	Productive binding
+grid_complement|2|-13|-9	1.77910395260613	Productive binding
+grid_complement|2|-14|-1	3.59458789590125	Productive binding
+grid_complement|2|-14|-10	1.3423635007454495	Productive binding
+grid_complement|2|-14|-11	1.0628499219715066	Productive binding
+grid_complement|2|-14|-12	0.44001851939757924	Productive binding
+grid_complement|2|-14|-13	0	Productive binding
+grid_complement|2|-14|-14	0	Productive binding
+grid_complement|2|-14|-2	3.523352663518187	Productive binding
+grid_complement|2|-14|-3	2.8473959862734253	Productive binding
+grid_complement|2|-14|-4	2.516162553892946	Productive binding
+grid_complement|2|-14|-5	2.642902305853952	Productive binding
+grid_complement|2|-14|-6	2.3223016120571094	Productive binding
+grid_complement|2|-14|-7	2.211518431612483	Productive binding
+grid_complement|2|-14|-8	2.1237535183439085	Productive binding
+grid_complement|2|-14|-9	1.8886674418676022	Productive binding
+grid_complement|2|-15|-1	3.7998661574152393	Productive binding
+grid_complement|2|-15|-10	1.2798758865386235	Productive binding
+grid_complement|2|-15|-11	0.9607800870561745	Productive binding
+grid_complement|2|-15|-12	0.5791139788794444	Productive binding
+grid_complement|2|-15|-13	0	Productive binding
+grid_complement|2|-15|-14	0	Productive binding
+grid_complement|2|-15|-15	0	Productive binding
+grid_complement|2|-15|-2	3.2754472330227777	Productive binding
+grid_complement|2|-15|-3	3.1565945829459525	Productive binding
+grid_complement|2|-15|-4	2.6358505175023987	Productive binding
+grid_complement|2|-15|-5	2.4812077176216394	Productive binding
+grid_complement|2|-15|-6	2.493687161174205	Productive binding
+grid_complement|2|-15|-7	2.213445361744293	Productive binding
+grid_complement|2|-15|-8	1.8924335771299803	Productive binding
+grid_complement|2|-15|-9	1.890149283622036	Productive binding
+grid_complement|2|-16|-1	3.7391010976356958	Productive binding
+grid_complement|2|-16|-10	1.2823463319909545	Productive binding
+grid_complement|2|-16|-11	1.0814390685731756	Productive binding
+grid_complement|2|-16|-12	0.5303532473278961	Productive binding
+grid_complement|2|-16|-13	0	Productive binding
+grid_complement|2|-16|-14	0	Productive binding
+grid_complement|2|-16|-15	0	Productive binding
+grid_complement|2|-16|-16	0	Productive binding
+grid_complement|2|-16|-2	3.6087162019206445	Productive binding
+grid_complement|2|-16|-3	3.491629396362255	Productive binding
+grid_complement|2|-16|-4	2.581460858851741	Productive binding
+grid_complement|2|-16|-5	2.46724905533491	Productive binding
+grid_complement|2|-16|-6	2.532297559416543	Productive binding
+grid_complement|2|-16|-7	2.3085258392710277	Productive binding
+grid_complement|2|-16|-8	2.3187960383024486	Productive binding
+grid_complement|2|-16|-9	2.1099843236052145	Productive binding
+grid_complement|2|-17|-1	3.9103776722096995	Productive binding
+grid_complement|2|-17|-10	1.2239550443164984	Productive binding
+grid_complement|2|-17|-11	1.05585628459886	Productive binding
+grid_complement|2|-17|-12	0.5367165569489948	Productive binding
+grid_complement|2|-17|-13	0	Productive binding
+grid_complement|2|-17|-14	0	Productive binding
+grid_complement|2|-17|-15	0	Productive binding
+grid_complement|2|-17|-16	0	Productive binding
+grid_complement|2|-17|-17	0	Productive binding
+grid_complement|2|-17|-2	3.640672985415356	Productive binding
+grid_complement|2|-17|-3	3.309625566690929	Productive binding
+grid_complement|2|-17|-4	2.96416293180548	Productive binding
+grid_complement|2|-17|-5	2.717919915256758	Productive binding
+grid_complement|2|-17|-6	2.312323053872092	Productive binding
+grid_complement|2|-17|-7	2.367312675067119	Productive binding
+grid_complement|2|-17|-8	2.0917509784039643	Productive binding
+grid_complement|2|-17|-9	1.9033582756934897	Productive binding
+grid_complement|2|-18|-1	4	Productive binding
+grid_complement|2|-18|-10	1.3253274658699683	Productive binding
+grid_complement|2|-18|-11	1.1762014952732631	Productive binding
+grid_complement|2|-18|-12	0.6076377235564258	Productive binding
+grid_complement|2|-18|-13	0	Productive binding
+grid_complement|2|-18|-14	0	Productive binding
+grid_complement|2|-18|-15	0	Productive binding
+grid_complement|2|-18|-16	0	Productive binding
+grid_complement|2|-18|-17	0	Productive binding
+grid_complement|2|-18|-18	0	Productive binding
+grid_complement|2|-18|-2	3.847492793591889	Productive binding
+grid_complement|2|-18|-3	3.2769619431101367	Productive binding
+grid_complement|2|-18|-4	2.948342683107776	Productive binding
+grid_complement|2|-18|-5	2.940741810811909	Productive binding
+grid_complement|2|-18|-6	2.3276240625829607	Productive binding
+grid_complement|2|-18|-7	2.433785488032085	Productive binding
+grid_complement|2|-18|-8	2.1639813632431917	Productive binding
+grid_complement|2|-18|-9	1.8674942276500763	Productive binding
+grid_complement|2|-19|-1	4	Productive binding
+grid_complement|2|-19|-10	1.3810757455482712	Productive binding
+grid_complement|2|-19|-11	0.899082845345795	Productive binding
+grid_complement|2|-19|-12	0.4947857704999554	Productive binding
+grid_complement|2|-19|-13	0	Productive binding
+grid_complement|2|-19|-14	0	Productive binding
+grid_complement|2|-19|-15	0	Productive binding
+grid_complement|2|-19|-16	0	Productive binding
+grid_complement|2|-19|-17	0	Productive binding
+grid_complement|2|-19|-18	0	Productive binding
+grid_complement|2|-19|-19	0	Productive binding
+grid_complement|2|-19|-2	3.8007065068100268	Productive binding
+grid_complement|2|-19|-3	3.2659264389848306	Productive binding
+grid_complement|2|-19|-4	2.8568903693995704	Productive binding
+grid_complement|2|-19|-5	2.828253428718757	Productive binding
+grid_complement|2|-19|-6	2.4515196629383276	Productive binding
+grid_complement|2|-19|-7	2.378214775450178	Productive binding
+grid_complement|2|-19|-8	2.2384335474283072	Productive binding
+grid_complement|2|-19|-9	1.9911238608157595	Productive binding
+grid_complement|2|-20|-1	3.749425338505085	Productive binding
+grid_complement|2|-20|-10	1.3630421388456	Productive binding
+grid_complement|2|-20|-11	1.1746606577567555	Productive binding
+grid_complement|2|-20|-12	0.46983159190157925	Productive binding
+grid_complement|2|-20|-13	0	Productive binding
+grid_complement|2|-20|-14	0	Productive binding
+grid_complement|2|-20|-15	0	Productive binding
+grid_complement|2|-20|-16	0	Productive binding
+grid_complement|2|-20|-17	0	Productive binding
+grid_complement|2|-20|-18	0	Productive binding
+grid_complement|2|-20|-19	0	Productive binding
+grid_complement|2|-20|-2	4	Productive binding
+grid_complement|2|-20|-20	0	Productive binding
+grid_complement|2|-20|-3	3.8087713281758777	Productive binding
+grid_complement|2|-20|-4	2.935922067190022	Productive binding
+grid_complement|2|-20|-5	3.0225770056622663	Productive binding
+grid_complement|2|-20|-6	2.9144881030887158	Productive binding
+grid_complement|2|-20|-7	2.6857631336544525	Productive binding
+grid_complement|2|-20|-8	2.20071118663692	Productive binding
+grid_complement|2|-20|-9	1.9410519248600653	Productive binding
+grid_complement|2|-2|-1	2.0931069837905683	Productive binding
+grid_complement|2|-2|-2	0.8868678891542657	Productive binding
+grid_complement|2|-3|-1	2.0900481028552536	Productive binding
+grid_complement|2|-3|-2	1.9964144699429685	Productive binding
+grid_complement|2|-3|-3	1.1290473262590413	Productive binding
+grid_complement|2|-4|-1	2.2204483169738545	Productive binding
+grid_complement|2|-4|-2	2.1429793178729084	Productive binding
+grid_complement|2|-4|-3	1.4263824163818732	Productive binding
+grid_complement|2|-4|-4	0.9723648519316435	Productive binding
+grid_complement|2|-5|-1	2.718029228463851	Productive binding
+grid_complement|2|-5|-2	2.4266474169465315	Productive binding
+grid_complement|2|-5|-3	2.0896722103960634	Productive binding
+grid_complement|2|-5|-4	1.9786878593976918	Productive binding
+grid_complement|2|-5|-5	1.2401586101954591	Productive binding
+grid_complement|2|-6|-1	3.0173977597353407	Productive binding
+grid_complement|2|-6|-2	2.465066588182409	Productive binding
+grid_complement|2|-6|-3	2.489911552732881	Productive binding
+grid_complement|2|-6|-4	2.2352398547395165	Productive binding
+grid_complement|2|-6|-5	2.0536142621726183	Productive binding
+grid_complement|2|-6|-6	1.149809569450845	Productive binding
+grid_complement|2|-7|-1	2.95988492026129	Productive binding
+grid_complement|2|-7|-2	2.84893999385179	Productive binding
+grid_complement|2|-7|-3	2.3298703482925305	Productive binding
+grid_complement|2|-7|-4	2.225061417799375	Productive binding
+grid_complement|2|-7|-5	2.056136788444093	Productive binding
+grid_complement|2|-7|-6	2.019752436117288	Productive binding
+grid_complement|2|-7|-7	1.0655352943147987	Productive binding
+grid_complement|2|-8|-1	3.0541587699687884	Productive binding
+grid_complement|2|-8|-2	2.6980819243624374	Productive binding
+grid_complement|2|-8|-3	2.2582489581878544	Productive binding
+grid_complement|2|-8|-4	2.220230576311743	Productive binding
+grid_complement|2|-8|-5	2.1422260387806413	Productive binding
+grid_complement|2|-8|-6	2.0485019270252423	Productive binding
+grid_complement|2|-8|-7	2.0298070451443495	Productive binding
+grid_complement|2|-8|-8	0.02266823624374561	Productive binding
+grid_complement|2|-9|-1	3.4775580836491273	Productive binding
+grid_complement|2|-9|-2	3.1069761062628567	Productive binding
+grid_complement|2|-9|-3	2.2808665114513325	Productive binding
+grid_complement|2|-9|-4	2.2239947955907007	Productive binding
+grid_complement|2|-9|-5	2.2591193090711488	Productive binding
+grid_complement|2|-9|-6	2.146256054554225	Productive binding
+grid_complement|2|-9|-7	2.0058154877171797	Productive binding
+grid_complement|2|-9|-8	1.3012199436170344	Productive binding
+grid_complement|2|-9|-9	0.925039391565855	Productive binding
+ins_1|1|-1	1.0590144383750395	Productive binding
+ins_1|1|-10	1.0925892120805605	Productive binding
+ins_1|1|-11	0.8553019828921148	Productive binding
+ins_1|1|-12	0	Productive binding
+ins_1|1|-13	0	Productive binding
+ins_1|1|-14	0	Productive binding
+ins_1|1|-15	0	Productive binding
+ins_1|1|-16	0	Productive binding
+ins_1|1|-17	0	Productive binding
+ins_1|1|-18	0	Productive binding
+ins_1|1|-19	0	Productive binding
+ins_1|1|-2	1.6469206182452925	Productive binding
+ins_1|1|-20	0	Productive binding
+ins_1|1|-3	0.9321402079480609	Productive binding
+ins_1|1|-4	0.8798159297470466	Productive binding
+ins_1|1|-5	1.3087628395469055	Productive binding
+ins_1|1|-6	1.4455438879605451	Productive binding
+ins_1|1|-7	1.3480115813411753	Productive binding
+ins_1|1|-8	1.2188350449974321	Productive binding
+ins_1|1|-9	1.1309043580270584	Productive binding
+ins_2|1|-1	1.3492130196978447	Productive binding
+ins_2|1|-10	1.332007914385807	Productive binding
+ins_2|1|-11	1.0125452870625768	Productive binding
+ins_2|1|-12	0.042879979455154	Productive binding
+ins_2|1|-13	0	Productive binding
+ins_2|1|-14	0	Productive binding
+ins_2|1|-15	0	Productive binding
+ins_2|1|-16	0	Productive binding
+ins_2|1|-17	0	Productive binding
+ins_2|1|-18	0	Productive binding
+ins_2|1|-19	0	Productive binding
+ins_2|1|-2	1.9987400885354252	Productive binding
+ins_2|1|-20	0	Productive binding
+ins_2|1|-3	1.9346950517309274	Productive binding
+ins_2|1|-4	1.9975127173832288	Productive binding
+ins_2|1|-5	1.9909786132282765	Productive binding
+ins_2|1|-6	2.0157999306815877	Productive binding
+ins_2|1|-7	2.08158756275018	Productive binding
+ins_2|1|-8	1.9600412983784765	Productive binding
+ins_2|1|-9	1.8510895438769708	Productive binding
+ins_3|1|-1	0.2007403761324682	Productive binding
+ins_3|1|-10	1.2575669188676317	Productive binding
+ins_3|1|-11	0.9982963811920268	Productive binding
+ins_3|1|-12	0.27455097450809096	Productive binding
+ins_3|1|-13	0	Productive binding
+ins_3|1|-14	0	Productive binding
+ins_3|1|-15	0	Productive binding
+ins_3|1|-16	0	Productive binding
+ins_3|1|-17	0	Productive binding
+ins_3|1|-18	0	Productive binding
+ins_3|1|-19	0	Productive binding
+ins_3|1|-2	2.0068144281587386	Productive binding
+ins_3|1|-20	0	Productive binding
+ins_3|1|-3	1.9845301211265571	Productive binding
+ins_3|1|-4	2.0269506870294607	Productive binding
+ins_3|1|-5	1.8482557797958559	Productive binding
+ins_3|1|-6	2.0412112445395665	Productive binding
+ins_3|1|-7	2.0022713991641163	Productive binding
+ins_3|1|-8	1.967039311186691	Productive binding
+ins_3|1|-9	1.4129667482114374	Productive binding
+perfect_target|1|NA	0	Productive binding
+rgrid_complement|2|-17|-1	0	Productive binding
+rgrid_complement|2|-17|-2	2.0634712386192495	Productive binding
+rgrid_complement|2|-17|-3	2.103665584505424	Productive binding
+rgrid_complement|2|-17|-4	2.141943396779214	Productive binding
+rgrid_complement|2|-17|-5	2.2949208341217373	Productive binding
+rgrid_complement|2|-18|-1	0	Productive binding
+rgrid_complement|2|-18|-2	2.018321513312322	Productive binding
+rgrid_complement|2|-18|-3	2.0764389589112198	Productive binding
+rgrid_complement|2|-18|-4	2.2102980583004728	Productive binding
+rgrid_complement|2|-18|-5	2.269493418809976	Productive binding
+rgrid_complement|2|-19|-1	0	Productive binding
+rgrid_complement|2|-19|-2	2.0447424238033345	Productive binding
+rgrid_complement|2|-19|-3	2.1084017079667428	Productive binding
+rgrid_complement|2|-19|-4	2.1649345630025056	Productive binding
+rgrid_complement|2|-19|-5	2.435124823399468	Productive binding
+rgrid_complement|2|-20|-1	0	Productive binding
+rgrid_complement|2|-20|-2	1.9767522438139862	Productive binding
+rgrid_complement|2|-20|-3	2.133864726023802	Productive binding
+rgrid_complement|2|-20|-4	2.29539561028392	Productive binding
+rgrid_complement|2|-20|-5	2.2968922209542333	Productive binding
+sub_complement|1|-1	1.8778275408366039	Productive binding
+sub_complement|1|-10	0.7423728684919777	Productive binding
+sub_complement|1|-11	0	Productive binding
+sub_complement|1|-12	0	Productive binding
+sub_complement|1|-13	0	Productive binding
+sub_complement|1|-14	0	Productive binding
+sub_complement|1|-15	0	Productive binding
+sub_complement|1|-16	0	Productive binding
+sub_complement|1|-17	0	Productive binding
+sub_complement|1|-18	0	Productive binding
+sub_complement|1|-19	0	Productive binding
+sub_complement|1|-2	0.8868678901147248	Productive binding
+sub_complement|1|-20	0	Productive binding
+sub_complement|1|-3	1.1290473259600922	Productive binding
+sub_complement|1|-4	0.9723648516090776	Productive binding
+sub_complement|1|-5	1.2401586112803304	Productive binding
+sub_complement|1|-6	1.1498095696493595	Productive binding
+sub_complement|1|-7	1.0655352931239501	Productive binding
+sub_complement|1|-8	0.022667102221946445	Productive binding
+sub_complement|1|-9	0.9250393924851217	Productive binding
+sub_opposing|1|-1	1.8275973978506994	Productive binding
+sub_opposing|1|-10	0.013856390828061504	Productive binding
+sub_opposing|1|-11	0	Productive binding
+sub_opposing|1|-12	0	Productive binding
+sub_opposing|1|-13	0	Productive binding
+sub_opposing|1|-14	0	Productive binding
+sub_opposing|1|-15	0	Productive binding
+sub_opposing|1|-16	0	Productive binding
+sub_opposing|1|-17	0	Productive binding
+sub_opposing|1|-18	0	Productive binding
+sub_opposing|1|-19	0	Productive binding
+sub_opposing|1|-2	0.7364614046699097	Productive binding
+sub_opposing|1|-20	0	Productive binding
+sub_opposing|1|-3	1.1886001957359142	Productive binding
+sub_opposing|1|-4	1.0519947348643373	Productive binding
+sub_opposing|1|-5	0.839725586267856	Productive binding
+sub_opposing|1|-6	1.3044598540853671	Productive binding
+sub_opposing|1|-7	1.3113769460967315	Productive binding
+sub_opposing|1|-8	0.7391926373458673	Productive binding
+sub_opposing|1|-9	0.7196906102987951	Productive binding
+sub_transition|1|-1	0.9508365589004788	Productive binding
+sub_transition|1|-10	0	Productive binding
+sub_transition|1|-11	0	Productive binding
+sub_transition|1|-12	0	Productive binding
+sub_transition|1|-13	0	Productive binding
+sub_transition|1|-14	0	Productive binding
+sub_transition|1|-15	0	Productive binding
+sub_transition|1|-16	0	Productive binding
+sub_transition|1|-17	0	Productive binding
+sub_transition|1|-18	0	Productive binding
+sub_transition|1|-19	0	Productive binding
+sub_transition|1|-2	0.22062360467152545	Productive binding
+sub_transition|1|-20	0	Productive binding
+sub_transition|1|-3	0.8595373976162132	Productive binding
+sub_transition|1|-4	1.0590363899045419	Productive binding
+sub_transition|1|-5	0.08202015000826092	Productive binding
+sub_transition|1|-6	0.8794650968966815	Productive binding
+sub_transition|1|-7	0.18815293899650537	Productive binding
+sub_transition|1|-8	0	Productive binding
+sub_transition|1|-9	0.28256411915687757	Productive binding
+transition_complement|2|0|1	3.984103440898469	Productive binding
+transition_complement|2|-1|0	2.111188112230304	Productive binding
+transition_complement|2|-10|-9	1.0190800721407902	Productive binding
+transition_complement|2|-11|-10	0.8962326521636202	Productive binding
+transition_complement|2|1|2	4	Productive binding
+transition_complement|2|-12|-11	1.0295748959024051	Productive binding
+transition_complement|2|-13|-12	0.13215331796743673	Productive binding
+transition_complement|2|-14|-13	0	Productive binding
+transition_complement|2|-15|-14	0	Productive binding
+transition_complement|2|-16|-15	0	Productive binding
+transition_complement|2|-17|-16	0	Productive binding
+transition_complement|2|-18|-17	0	Productive binding
+transition_complement|2|-19|-18	0	Productive binding
+transition_complement|2|-20|-19	0	Productive binding
+transition_complement|2|-2|-1	2.174637140536338	Productive binding
+transition_complement|2|-3|-2	1.9732080997747061	Productive binding
+transition_complement|2|-4|-3	1.3479801560866949	Productive binding
+transition_complement|2|-5|-4	1.861209975255804	Productive binding
+transition_complement|2|-6|-5	1.9198666825708541	Productive binding
+transition_complement|2|-7|-6	1.6954513670295444	Productive binding
+transition_complement|2|-8|-7	1.2793679903587327	Productive binding
+transition_complement|2|-9|-8	1.2906757383510867	Productive binding
+transition_transition|2|0|1	4	Productive binding
+transition_transition|2|-1|0	1.078317499983342	Productive binding
+transition_transition|2|-10|-9	0.9571500287884014	Productive binding
+transition_transition|2|-11|-10	0.4587390998849072	Productive binding
+transition_transition|2|1|2	4	Productive binding
+transition_transition|2|-12|-11	0.4991816386128294	Productive binding
+transition_transition|2|-13|-12	0	Productive binding
+transition_transition|2|-14|-13	0	Productive binding
+transition_transition|2|-15|-14	0	Productive binding
+transition_transition|2|-16|-15	0.017709225095130288	Productive binding
+transition_transition|2|-17|-16	0	Productive binding
+transition_transition|2|-18|-17	0	Productive binding
+transition_transition|2|-19|-18	0	Productive binding
+transition_transition|2|-20|-19	0	Productive binding
+transition_transition|2|-2|-1	1.9240947863252786	Productive binding
+transition_transition|2|-3|-2	1.2484893198072924	Productive binding
+transition_transition|2|-4|-3	1.2835451066687038	Productive binding
+transition_transition|2|-5|-4	1.2727697267405575	Productive binding
+transition_transition|2|-6|-5	1.367202247390091	Productive binding
+transition_transition|2|-7|-6	1.2993747412799461	Productive binding
+transition_transition|2|-8|-7	1.3550735689724749	Productive binding
+transition_transition|2|-9|-8	1.2996941080819664	Productive binding
